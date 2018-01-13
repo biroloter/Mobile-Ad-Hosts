@@ -1,3 +1,4 @@
+0.0.0.0 2mdn.net
 0.0.0.0 a.adnium.com
 0.0.0.0 a.applovin.com
 0.0.0.0 a.applvn.com
@@ -52,6 +53,7 @@
 0.0.0.0 autolinkmaker.itunes.apple.com
 0.0.0.0 b.misslk.com
 0.0.0.0 b.scorecardresearch.com
+0.0.0.0 banners.etermax.com
 0.0.0.0 bestadbid.com
 0.0.0.0 bidserver.clickpapa.io
 0.0.0.0 brightcove.vo.llnwd.net
@@ -99,8 +101,11 @@
 0.0.0.0 dlyads.adk2x.com
 0.0.0.0 dts.startappservice.com
 0.0.0.0 e.crashlytics.com
+0.0.0.0 e1.static.hoptopboy.com
 0.0.0.0 engine.mobileapptracking.com
+0.0.0.0 equuleus.iad.appboy.com
 0.0.0.0 etl.tindersparks.com
+0.0.0.0 events.appsflyer.com
 0.0.0.0 events3.adcolony.com
 0.0.0.0 events3alt.adcolony.com
 0.0.0.0 gatr.hit.gemius.pl
@@ -161,12 +166,14 @@
 0.0.0.0 mobilecrashreporting.googleapis.com
 0.0.0.0 movip.wps.com
 0.0.0.0 mpx.mopub.com
+0.0.0.0 ms.cmcm.com
 0.0.0.0 mt.rtmark.net
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 my.hellobar.com
 0.0.0.0 my.mobfox.com
 0.0.0.0 my.rtmark.net
+0.0.0.0 openamp-error-reporting.appspot.com
 0.0.0.0 outcome.supersonicads.com
 0.0.0.0 p.adsymptotic.com
 0.0.0.0 p232207.clksite.com
@@ -229,6 +236,7 @@
 0.0.0.0 st.chatango.com
 0.0.0.0 stage-assets.applovin.com
 0.0.0.0 startappexchange.com
+0.0.0.0 static.59saniye.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.chartbeat.com
@@ -237,6 +245,7 @@
 0.0.0.0 static.flattr.net
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.siteleaf.com
+0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 su.addthis.com
 0.0.0.0 supersonicads-a.akamaihd.net
@@ -245,6 +254,8 @@
 0.0.0.0 syndication.twitter.com
 0.0.0.0 system-security-com.xyz
 0.0.0.0 t.api.yyapi.net
+0.0.0.0 t.appsflyer.com
+0.0.0.0 telpacdn2.streamprovider.net
 0.0.0.0 tools.bongacams.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 track.reacheffect.com
